@@ -3,4 +3,4 @@
 
 @import "{{ site.theme }}";
 
-li.fork { display: none; }
+li.fork, .credits { display: none !important; }
