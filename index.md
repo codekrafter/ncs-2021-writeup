@@ -10,14 +10,14 @@ For my first competitive timed CTF, I think I did pretty well. This website serv
 
 ### Challenges
 
-| Binary              | Crypto              | Forensics              | Networking              | Web              |
-| ------------------- | ------------------- | ---------------------- | ----------------------- | ---------------- |
-| [BE01](binary/be01) | [CM01](crypto/cm01) | [FE01](forensics/fe01) | [NE01](networking/ne01) | [WE01](web/we01) |
-| [BE02](binary/be02) | [CM02](crypto/cm02) | [FE02](forensics/fe02) | [NM01](networking/nm01) | [WE02](web/we02) |
-| [BM01](binary/bh01) |                     | [FE03](forensics/fe03) |                         | [WM02](web/wm02) |
-| [BM02](binary/bm02) |                     | [FE04](forensics/fe04) |                         | [WM05](web/wm05) |
-| [BM03](binary/bm03) |                     | [FM01](forensics/fm01) |                         |                  |
-| [BH01](binary/bh01) |                     | [FM02](forensics/fm02) |                         |                  |
+| Binary                    | Crypto (WIP)        | Forensics (WIP)        | Networking (WIP)        | Web (WIP)        |
+| ------------------------- | ------------------- | ---------------------- | ----------------------- | ---------------- |
+| [BE01](binary/be01)       | [CM01](crypto/cm01) | [FE01](forensics/fe01) | [NE01](networking/ne01) | [WE01](web/we01) |
+| [BE02](binary/be02)       | [CM02](crypto/cm02) | [FE02](forensics/fe02) | [NM01](networking/nm01) | [WE02](web/we02) |
+| [BM01](binary/bh01)       |                     | [FE03](forensics/fe03) |                         | [WM02](web/wm02) |
+| [BM02](binary/bm02)       |                     | [FE04](forensics/fe04) |                         | [WM05](web/wm05) |
+| [BM03](binary/bm03) (WIP) |                     | [FM01](forensics/fm01) |                         |                  |
+| [BH01](binary/bh01)       |                     | [FM02](forensics/fm02) |                         |                  |
 
 ## My Setup
 
